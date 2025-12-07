@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/eltitoyisus?label=Followers&style=flat&color=4a9d4a&labelColor=2d5a2d&logo=github)](https://github.com/eltitoyisus)
 [![Profile Views](https://komarev.com/ghpvc/?username=eltitoyisus&color=4a9d4a&style=flat&label=Profile+Views)](https://github.com/eltitoyisus)
-<a href="https://www.linkedin.com/in/jesús-ramos-6a8718214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-4a9d4a?style=flat&logo=linkedin&labelColor=2d5a2d" alt="LinkedIn"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4a9d4a?style=flat&logo=linkedin&labelColor=2d5a2d)](https://www.linkedin.com/in/jesús-ramos-6a8718214/)
 
 </div>
 
