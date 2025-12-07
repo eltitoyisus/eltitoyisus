@@ -198,6 +198,7 @@ Solving complex computational problems with mathematical rigor and optimized alg
 ![Web3](https://img.shields.io/badge/Web3-2d5a2d?style=flat&logoColor=white)
 
 </div>
+
 ---
 
 ## 🚀 Featured Projects
