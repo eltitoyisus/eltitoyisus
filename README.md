@@ -136,27 +136,6 @@ const jesusRamos = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/eltitoyisus">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eltitoyisus&show_icons=true&theme=dark&hide_border=false&count_private=true&title_color=4a9d4a&text_color=d4edda&icon_color=4a9d4a&bg_color=0d1117&border_color=2d5a2d&rank_icon=github" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/eltitoyisus">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eltitoyisus&theme=dark&hide_border=false&ring=4a9d4a&fire=4a9d4a&currStreakLabel=4a9d4a&background=0d1117&stroke=2d5a2d&border=2d5a2d&currStreakNum=d4edda&sideNums=d4edda&sideLabels=5cb85c&dates=9ea7aa" alt="GitHub Streak"/>
-</a>
-
-<a href="https://github.com/eltitoyisus">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltitoyisus&layout=compact&theme=dark&hide_border=false&title_color=4a9d4a&text_color=d4edda&bg_color=0d1117&border_color=2d5a2d&langs_count=8&card_width=500" alt="Top Languages"/>
-</a>
-
-<a href="https://github.com/eltitoyisus">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eltitoyisus&bg_color=0d1117&color=d4edda&line=4a9d4a&point=5cb85c&area=true&hide_border=false&border_color=2d5a2d&theme=github-dark" alt="Contribution Graph"/>
-</a>
-
-</div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -201,8 +180,8 @@ Comprehensive collection of systems programming projects covering algorithms, da
 I'm always interested in collaborating on challenging projects, discussing systems programming, or exploring new technologies.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@eltitoyisus-4a9d4a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eltitoyisus)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-4a9d4a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4a9d4a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-4a9d4a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusramase@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4a9d4a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesús-ramos-6a8718214/)
 
 <br>
 
