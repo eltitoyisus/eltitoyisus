@@ -23,8 +23,8 @@ const jesusRamos = {
     location: "Madrid, Spain 🇪🇸",
     
     expertise: {
-        systems: ["C", "Low-Level Programming", "UNIX Systems"],
-        languages: ["C", "JavaScript", "TypeScript", "Python", "Solidity", "HTML5", "CSS3", "Shell Scripting"],
+        systems: ["C", "C++", "Low-Level Programming", "UNIX Systems"],
+        languages: ["C", "C++", "JavaScript", "TypeScript", "Python", "Solidity", "HTML5", "CSS3", "Shell Scripting"],
         frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
         backend: ["Node.js", "Express", "Django", "Flask", "FastAPI"],
         databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite"],
@@ -65,6 +65,7 @@ const jesusRamos = {
 
 ### Languages
 [![C](https://img.shields.io/badge/C-4a9d4a?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-4a9d4a?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-4a9d4a?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4a9d4a?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Python](https://img.shields.io/badge/Python-4a9d4a?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -139,10 +140,20 @@ const jesusRamos = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eltitoyisus&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=4a9d4a&text_color=333&icon_color=4a9d4a&bg_color=ffffff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eltitoyisus&theme=transparent&hide_border=true&ring=4a9d4a&fire=4a9d4a&currStreakLabel=333&background=ffffff&stroke=4a9d4a" alt="GitHub Streak"/>
+<a href="https://github.com/eltitoyisus">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eltitoyisus&show_icons=true&theme=dark&hide_border=false&count_private=true&title_color=4a9d4a&text_color=d4edda&icon_color=4a9d4a&bg_color=0d1117&border_color=2d5a2d&rank_icon=github" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/eltitoyisus">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eltitoyisus&theme=dark&hide_border=false&ring=4a9d4a&fire=4a9d4a&currStreakLabel=4a9d4a&background=0d1117&stroke=2d5a2d&border=2d5a2d&currStreakNum=d4edda&sideNums=d4edda&sideLabels=5cb85c&dates=9ea7aa" alt="GitHub Streak"/>
+</a>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltitoyisus&layout=compact&theme=transparent&hide_border=true&title_color=4a9d4a&text_color=333&bg_color=ffffff&langs_count=6" alt="Top Languages"/>
+<a href="https://github.com/eltitoyisus">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltitoyisus&layout=compact&theme=dark&hide_border=false&title_color=4a9d4a&text_color=d4edda&bg_color=0d1117&border_color=2d5a2d&langs_count=8&card_width=500" alt="Top Languages"/>
+</a>
+
+<a href="https://github.com/eltitoyisus">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=eltitoyisus&bg_color=0d1117&color=d4edda&line=4a9d4a&point=5cb85c&area=true&hide_border=false&border_color=2d5a2d&theme=github-dark" alt="Contribution Graph"/>
+</a>
 
 </div>
 
@@ -151,35 +162,6 @@ const jesusRamos = {
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### 🎮 [cub3D](https://github.com/eltitoyisus/cub3D)
-**3D Raycasting Game Engine**
-
-A Wolfenstein 3D-inspired rendering engine built from scratch in C, implementing raycasting algorithms for real-time 3D graphics.
-
-**Tech:** `C` `Graphics` `Raycasting` `MinilibX`
-
-![Stars](https://img.shields.io/github/stars/eltitoyisus/cub3D?style=flat&color=4a9d4a)
-![Language](https://img.shields.io/github/languages/top/eltitoyisus/cub3D?style=flat&color=4a9d4a)
-
-</td>
-<td width="50%">
-
-### 🖥️ [mini](https://github.com/eltitoyisus/mini)
-**Unix Shell Implementation**
-
-A fully-functional command-line interpreter featuring process management, pipe handling, redirection, and signal processing.
-
-**Tech:** `C` `UNIX` `System Calls` `Process Management`
-
-![Stars](https://img.shields.io/github/stars/eltitoyisus/mini?style=flat&color=4a9d4a)
-![Language](https://img.shields.io/github/languages/top/eltitoyisus/mini?style=flat&color=4a9d4a)
-
-</td>
-</tr>
-
 <tr>
 <td width="50%">
 
