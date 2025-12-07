@@ -12,8 +12,6 @@
 
 ---
 
----
-
 ## 👨‍💻 About Me
 
 ```typescript
@@ -34,7 +32,9 @@ const jesusRamos = {
     },
     
     currentWork: [
-        "Searching for one..."
+        "Building scalable data pipelines with Apache Spark & Kafka",
+        "Developing ETL processes for big data analytics",
+        "Working with Snowflake and cloud data warehouses"
     ],
     
     interests: ["Performance Optimization", "Computer Architecture", "Open Source", "Cloud Computing", "Web3", "Decentralization"],
@@ -43,7 +43,72 @@ const jesusRamos = {
 };
 ```
 
-<details>
+---
+
+## 🔥 Currently Working On
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📊 Data Analytics
+Building data-driven solutions and insights using advanced analytics techniques
+
+**Focus:**
+- Statistical Analysis
+- Data Visualization
+- Business Intelligence
+- Predictive Modeling
+
+</td>
+<td align="center" width="33%">
+
+### ☁️ AWS Cloud
+Architecting and deploying scalable cloud solutions on Amazon Web Services
+
+**Focus:**
+- EC2, S3, Lambda
+- CloudFormation
+- Serverless Architecture
+- Cloud Infrastructure
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI & Machine Learning
+Developing intelligent systems and exploring cutting-edge AI technologies
+
+**Focus:**
+- Neural Networks
+- Deep Learning
+- NLP & Computer Vision
+- ML Algorithms
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+
+### 🧮 Mathematics & Algorithms
+Solving complex computational problems with mathematical rigor and optimized algorithms
+
+**Specializations:** Linear Algebra • Calculus • Graph Theory • Dynamic Programming • Optimization
+
+</td>
+</tr>
+</table>
+
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-4a9d4a?style=flat-square&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-4a9d4a?style=flat-square&logo=amazon-aws&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI/ML-4a9d4a?style=flat-square&logo=tensorflow&logoColor=white)
+![Mathematics](https://img.shields.io/badge/Mathematics-4a9d4a?style=flat-square&logo=wolfram&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-4a9d4a?style=flat-square&logo=leetcode&logoColor=white)
+
+</div>
+
+---
 <summary><b>🎯 Core Skills & Competencies</b></summary>
 <br>
 
