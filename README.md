@@ -24,19 +24,20 @@ const jesusRamos = {
     
     expertise: {
         systems: ["C", "Low-Level Programming", "UNIX Systems"],
-        languages: ["C", "JavaScript", "TypeScript", "Python", "HTML5", "CSS3", "Shell Scripting"],
+        languages: ["C", "JavaScript", "TypeScript", "Python", "Solidity", "HTML5", "CSS3", "Shell Scripting"],
         frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
         backend: ["Node.js", "Express", "Django", "Flask", "FastAPI"],
         databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite"],
+        blockchain: ["Ethereum", "Solidity", "Web3.js", "Ethers.js", "Hardhat", "Truffle", "Smart Contracts", "DApps"],
         devops: ["Docker", "Kubernetes", "AWS", "Nginx", "Linux"],
-        focus: ["Full-Stack Development", "Graphics Programming", "3D Rendering", "Shell Implementation", "RESTful APIs"]
+        focus: ["Full-Stack Development", "Blockchain Development", "Graphics Programming", "3D Rendering", "Shell Implementation", "RESTful APIs"]
     },
     
     currentWork: [
         "Searching for one..."
     ],
     
-    interests: ["Performance Optimization", "Computer Architecture", "Open Source", "Cloud Computing"],
+    interests: ["Performance Optimization", "Computer Architecture", "Open Source", "Cloud Computing", "Web3", "Decentralization"],
     
     getGoal: () => "Creating efficient, elegant solutions to complex problems"
 };
@@ -106,8 +107,21 @@ const jesusRamos = {
 [![GDB](https://img.shields.io/badge/GDB-4a9d4a?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/gdb/)
 [![Valgrind](https://img.shields.io/badge/Valgrind-4a9d4a?style=for-the-badge&logo=v&logoColor=white)](https://valgrind.org/)
 
+### Blockchain & Web3
+[![Solidity](https://img.shields.io/badge/Solidity-4a9d4a?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![Ethereum](https://img.shields.io/badge/Ethereum-4a9d4a?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org/)
+[![Web3.js](https://img.shields.io/badge/Web3.js-4a9d4a?style=for-the-badge&logo=web3.js&logoColor=white)](https://web3js.readthedocs.io/)
+[![Ethers.js](https://img.shields.io/badge/Ethers.js-4a9d4a?style=for-the-badge&logo=ethereum&logoColor=white)](https://docs.ethers.org/)
+[![Hardhat](https://img.shields.io/badge/Hardhat-4a9d4a?style=for-the-badge&logo=hardhat&logoColor=white)](https://hardhat.org/)
+[![Truffle](https://img.shields.io/badge/Truffle-4a9d4a?style=for-the-badge&logo=truffle&logoColor=white)](https://trufflesuite.com/)
+[![MetaMask](https://img.shields.io/badge/MetaMask-4a9d4a?style=for-the-badge&logo=metamask&logoColor=white)](https://metamask.io/)
+[![IPFS](https://img.shields.io/badge/IPFS-4a9d4a?style=for-the-badge&logo=ipfs&logoColor=white)](https://ipfs.tech/)
+
 ### Specializations
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-2d5a2d?style=flat&logoColor=white)
+![Blockchain Development](https://img.shields.io/badge/Blockchain_Development-2d5a2d?style=flat&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-2d5a2d?style=flat&logoColor=white)
+![DApps](https://img.shields.io/badge/DApps-2d5a2d?style=flat&logoColor=white)
 ![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-2d5a2d?style=flat&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-2d5a2d?style=flat&logoColor=white)
 ![Memory Management](https://img.shields.io/badge/Memory_Management-2d5a2d?style=flat&logoColor=white)
@@ -115,6 +129,7 @@ const jesusRamos = {
 ![System Architecture](https://img.shields.io/badge/System_Architecture-2d5a2d?style=flat&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-2d5a2d?style=flat&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-2d5a2d?style=flat&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-2d5a2d?style=flat&logoColor=white)
 
 </div>
 
