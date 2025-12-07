@@ -18,24 +18,25 @@
 
 ```typescript
 const jesusRamos = {
-    role: "Software Engineer",
+    role: "Full-Stack Software Engineer",
     education: "42 Madrid",
     location: "Madrid, Spain 🇪🇸",
     
     expertise: {
         systems: ["C", "Low-Level Programming", "UNIX Systems"],
-        languages: ["C", "JavaScript", "Shell Scripting"],
-        focus: ["Graphics Programming", "3D Rendering", "Shell Implementation"]
+        languages: ["C", "JavaScript", "TypeScript", "Python", "HTML5", "CSS3", "Shell Scripting"],
+        frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "Django", "Flask", "FastAPI"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite"],
+        devops: ["Docker", "Kubernetes", "AWS", "Nginx", "Linux"],
+        focus: ["Full-Stack Development", "Graphics Programming", "3D Rendering", "Shell Implementation", "RESTful APIs"]
     },
     
     currentWork: [
-        "Building raycasting engines from scratch",
-        "Implementing UNIX shells",
-        "Optimizing memory management",
-        "Mastering algorithm design"
+        "Searching for one..."
     ],
     
-    interests: ["Performance Optimization", "Computer Architecture", "Open Source"],
+    interests: ["Performance Optimization", "Computer Architecture", "Open Source", "Cloud Computing"],
     
     getGoal: () => "Creating efficient, elegant solutions to complex problems"
 };
@@ -64,22 +65,56 @@ const jesusRamos = {
 ### Languages
 [![C](https://img.shields.io/badge/C-4a9d4a?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![JavaScript](https://img.shields.io/badge/JavaScript-4a9d4a?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4a9d4a?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-4a9d4a?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-4a9d4a?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-4a9d4a?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Shell](https://img.shields.io/badge/Shell_Script-4a9d4a?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
-### Tools & Environment
+### Frontend
+[![React](https://img.shields.io/badge/React-4a9d4a?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-4a9d4a?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4a9d4a?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4a9d4a?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+### Backend
+[![Node.js](https://img.shields.io/badge/Node.js-4a9d4a?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-4a9d4a?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Django](https://img.shields.io/badge/Django-4a9d4a?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-4a9d4a?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-4a9d4a?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
+### Databases
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4a9d4a?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4a9d4a?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4a9d4a?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-4a9d4a?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![SQLite](https://img.shields.io/badge/SQLite-4a9d4a?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+### DevOps & Tools
 [![Git](https://img.shields.io/badge/Git-4a9d4a?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-4a9d4a?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-4a9d4a?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![AWS](https://img.shields.io/badge/AWS-4a9d4a?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Linux](https://img.shields.io/badge/Linux-4a9d4a?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-4a9d4a?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/Postman-4a9d4a?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-4a9d4a?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+
+### System Programming Tools
 [![Make](https://img.shields.io/badge/Make-4a9d4a?style=for-the-badge&logo=cmake&logoColor=white)](https://www.gnu.org/software/make/)
 [![GDB](https://img.shields.io/badge/GDB-4a9d4a?style=for-the-badge&logo=gnu&logoColor=white)](https://www.gnu.org/software/gdb/)
 [![Valgrind](https://img.shields.io/badge/Valgrind-4a9d4a?style=for-the-badge&logo=v&logoColor=white)](https://valgrind.org/)
 
 ### Specializations
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-2d5a2d?style=flat&logoColor=white)
 ![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-2d5a2d?style=flat&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-2d5a2d?style=flat&logoColor=white)
 ![Memory Management](https://img.shields.io/badge/Memory_Management-2d5a2d?style=flat&logoColor=white)
 ![Graphics Programming](https://img.shields.io/badge/Graphics_Programming-2d5a2d?style=flat&logoColor=white)
 ![System Architecture](https://img.shields.io/badge/System_Architecture-2d5a2d?style=flat&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-2d5a2d?style=flat&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2d5a2d?style=flat&logoColor=white)
 
 </div>
 
