@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4a9d4a&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Systems+Programming;42+Madrid+Student+%7C+CS+Enthusiast;Building+High-Performance+Solutions" alt="Typing SVG" />
 
-[![GitHub followers](https://img.shields.io/github/followers/eltitoyisus?label=Followers&style=flat&color=4a9d4a&labelColor=2d5a2d&logo=github)](https://github.com/eltitoyisus)
+[![GitHub followers](https://img.shields.io/github/followers/jramos-a?label=Followers&style=flat&color=4a9d4a&labelColor=2d5a2d&logo=github)](https://github.com/jramos-a)
 [![Profile Views](https://komarev.com/ghpvc/?username=eltitoyisus&color=4a9d4a&style=flat&label=Profile+Views)](https://github.com/eltitoyisus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4a9d4a?style=flat&logo=linkedin&labelColor=2d5a2d)](https://www.linkedin.com/in/jesús-ramos-6a8718214/)
 
@@ -16,31 +16,78 @@
 
 ```typescript
 const jesusRamos = {
-    role: "Full-Stack Software Engineer",
-    education: "42 Madrid",
-    location: "Madrid, Spain 🇪🇸",
-    
-    expertise: {
-        systems: ["C", "C++", "Low-Level Programming", "UNIX Systems"],
-        languages: ["C", "C++", "JavaScript", "TypeScript", "Python", "Solidity", "HTML5", "CSS3", "Shell Scripting"],
-        frontend: ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Django", "Flask", "FastAPI"],
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "SQLite"],
-        blockchain: ["Ethereum", "Solidity", "Web3.js", "Ethers.js", "Hardhat", "Truffle", "Smart Contracts", "DApps"],
-        devops: ["Docker", "Kubernetes", "AWS", "Nginx", "Linux"],
-        focus: ["Full-Stack Development", "Blockchain Development", "Graphics Programming", "3D Rendering", "Shell Implementation", "RESTful APIs"]
-    },
-    
-    currentWork: [
-        "Building scalable data pipelines with Apache Spark & Kafka",
-        "Developing ETL processes for big data analytics",
-        "Working with Snowflake and cloud data warehouses"
+    role: "AI Systems Engineer",
+
+    focus: [
+        "Building LLMs from scratch",
+        "Training Transformer architectures",
+        "Inference optimization",
+        "Low-level AI systems",
+        "GPU programming",
+        "Distributed training"
     ],
-    
-    interests: ["Performance Optimization", "Computer Architecture", "Open Source", "Cloud Computing", "Web3", "Decentralization"],
-    
-    getGoal: () => "Creating efficient, elegant solutions to complex problems"
-};
+
+    expertise: {
+        languages: [
+            "C",
+            "C++",
+            "Python",
+            "CUDA",
+            "Rust"
+        ],
+
+        ai: [
+            "PyTorch",
+            "Triton",
+            "Transformers",
+            "Attention Mechanisms",
+            "Tokenization",
+            "RLHF",
+            "LoRA",
+            "QLoRA",
+            "PEFT",
+            "Knowledge Distillation"
+        ],
+
+        systems: [
+            "Memory Management",
+            "SIMD",
+            "Linux",
+            "Multithreading",
+            "CUDA Kernels",
+            "Distributed Computing",
+            "Profiling",
+            "Performance Optimization"
+        ],
+
+        inference: [
+            "vLLM",
+            "TensorRT",
+            "ONNX",
+            "GGUF",
+            "llama.cpp",
+            "Quantization",
+            "KV Cache",
+            "Speculative Decoding"
+        ],
+
+        training: [
+            "FSDP",
+            "DeepSpeed",
+            "DDP",
+            "Gradient Checkpointing",
+            "Mixed Precision",
+            "Flash Attention"
+        ]
+    },
+
+    currentlyLearning: [
+        "MoE architectures",
+        "Inference engines",
+        "Compiler optimization",
+        "CUDA internals"
+    ]
+}
 ```
 
 ---
